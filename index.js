@@ -43,3 +43,5 @@ app.get("/home", function (req, res) {
 app.listen(port, function () {
   console.log(`server runing on port ${port}`);
 });
+
+module.exports = app;
