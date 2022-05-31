@@ -8,9 +8,3 @@ https://github.com/danielfernandoaraujo/gerenciador-biblioteca
 **Back-end:** Node, Express
 
 
-## Rotas
-
-```bash
-  api-biblioteca.vercel.app/api/alunos
-```
-    
